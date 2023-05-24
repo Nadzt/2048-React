@@ -9,7 +9,7 @@ you can see it [here](https://2048-react-xi.vercel.app/)
 cd into the folder you want to copy this repo
 clone it:
 
-	  git clone https://github.com/Nadzt/2048-React.git
+    git clone https://github.com/Nadzt/2048-React.git
 cd into the project folder
 
     cd 2048-React
